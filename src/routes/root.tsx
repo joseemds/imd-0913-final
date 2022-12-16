@@ -35,10 +35,7 @@ const AuctionCard = ({ auction }) => (
 );
 
 function Root() {
-  // const { activate } = useWeb3React();
-
   async function connect() {
-      // await activate(injected);
   }
 
   return (
